@@ -87,7 +87,7 @@ import axios from 'axios';
 export default {
   components: {
   },
-  data() {
+  data() { 
     return {
       Colores: null,
       type: ['', 'info', 'success', 'warning', 'danger'],
