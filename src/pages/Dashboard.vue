@@ -150,7 +150,7 @@ export default {
           "; text-shadow: 1px 1px #727272'>" +
           colorCopiado +
           "</label> ha sido copiado en tu portapapeles!",
-        icon: "add_alert",
+        icon: "color_lens",
         horizontalAlign: horizontalAlign,
         verticalAlign: verticalAlign,
         type: "success"
