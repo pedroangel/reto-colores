@@ -3,7 +3,7 @@
     <div class="container">
       <div class="copyright text-center">
         &copy; {{ new Date().getFullYear() }}
-        Pedro Alarcon, Reto Colores 
+        Pedro Alarcon, Reto Colores
       </div>
     </div>
   </footer>

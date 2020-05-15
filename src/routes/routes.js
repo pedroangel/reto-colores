@@ -12,7 +12,7 @@ const routes = [
         path: "colores",
         name: "Colores",
         component: Dashboard
-      },
+      }
     ]
   }
 ];
