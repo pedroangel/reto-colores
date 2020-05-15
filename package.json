@@ -1,11 +1,11 @@
 {
   "name": "reto-colores",
-  "version": "1.4.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "dev": "npm run serve",
-    "start": "node server.js",
+    "start": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
