@@ -123,7 +123,6 @@ export default {
   data() {
     return {
       Colores: null,
-      type: ["", "info", "success", "warning", "danger"],
       notifications: {
         topCenter: false
       },
