@@ -135,9 +135,6 @@ export default {
     this.listadoColores("1");
   },
   methods: {
-    colorCopy(color) {
-      // console.log("color seleccionado: ", color);
-    },
     listadoColores(page) {
       axios.get("https://reqres.in/api/colors?page=" + page).then(response => {
         this.Colores = response.data.data;
