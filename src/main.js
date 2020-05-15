@@ -1,4 +1,3 @@
-
 import Vue from "vue";
 import VueRouter from "vue-router";
 import App from "./App";
@@ -29,11 +28,11 @@ Vue.use(MaterialDashboard);
 Vue.use(GlobalComponents);
 Vue.use(GlobalDirectives);
 Vue.use(Notifications);
-
-import Clipboard from 'v-clipboard';
+import Clipboard from "v-clipboard";
 
 Vue.use(Clipboard);
 /* eslint-disable no-new */
+/* eslint-disable */
 new Vue({
   el: "#app",
   render: h => h(App),
