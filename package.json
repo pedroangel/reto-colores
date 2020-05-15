@@ -3,10 +3,10 @@
   "version": "1.4.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve --open",
+    "serve": "npm run serve",
     "dev": "npm run serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build": "npm run serve",
+    "lint": "npm run serve"
   },
   "dependencies": {
     "axios": "^0.19.2",
