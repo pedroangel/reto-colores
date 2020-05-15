@@ -101,7 +101,7 @@
 }
 .md-title {
   font-family: "Bookman";
-  font-weight: 800;
+  font-weight: 400;
 }
 .md-ripple {
   padding: 5px;
